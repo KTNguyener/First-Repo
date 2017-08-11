@@ -1,0 +1,6 @@
+#one {
+  background-color: red; width: 50%; height: 75%; float:left;
+}
+#two {
+  background-color: blue; width: 50%;height: 75%; float:right;
+}
